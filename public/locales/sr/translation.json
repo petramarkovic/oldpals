@@ -1,0 +1,61 @@
+{
+    "metaTitleHomepage": "Old Pals Koktel Ketering | Naslovna",
+    "metaDescriptionHomepage": "Old Pals koktel ketering je spoj strasti prema koktelima i bogatog iskustva u njihovoj pripremi. Naš tim čine dva iskusna barmena s dugogodišnjim stažem u ovoj veštini, a naša posvećenost koktelima je neupitna. Pružamo koktel ketering za svadbe, rođendane, momačke i devojačke večeri, poslovne događaje i sve vrste evenata.",
+    "metaTitleContact": "Old Pals Koktel Ketering | Kontakt",
+    "metaDescriptionContact": "Kontaktirajte nas za sve informacije o Old Pals koktel keteringu. Naš tim iskusnih barmena je spreman da učini vaš događaj posebnim. Nudimo ketering za svadbe, rođendane, korporativne događaje i druge prilike. Stupite u kontakt s nama i saznajte kako možemo obogatiti vaš događaj savršenim koktelima.",
+    "metaTitleOffers": "Old Pals Koktel Ketering | Ponude",
+    "metaDescriptionOffers": "Pogledajte naše ponude koktel keteringa za svadbe, rođendane, momačke i devojačke večeri, poslovne događaje i druge prilike. Old Pals koktel ketering nudi prilagođene pakete kako bi vaš događaj bio nezaboravan uz širok izbor koktela koje pripremaju naši iskusni barmeni.",
+    "title": "Old Pals Koktel Ketering",
+    "navigation": {
+        "home": "Naslovna",
+        "offers": "Ponude",
+        "contact": "Kontakt"
+    },
+    "serbianFlag": "Promeni jezik na srpski",
+    "englishFlag": "Promeni jezik na engleski",
+    "bannerTitle": "Old Pals Koktel Ketering",
+    "bannerText": "Učinite svoj događaj nezaboravnim - naš koktel ketering će osvojiti vaša čula i podići atmosferu na vrhunski nivo zabave!",
+    "bannerBtnPrimary": "Pogledaj ponude",
+    "bannerBtnSecondary": "Kontaktiraj nas",
+    "bannerImage": "Slika barmen",
+    "offersTitle": "Ponude",
+    "offersStandardTitle": "standard",
+    "offersStandardList": {
+        "offersStandardItem1": "2 barmena",
+        "offersStandardItem2": "bar (po potrebi)",
+        "offersStandardItem3": "osmišljavanje koktel karte",
+        "offersStandardItem4": "priprema garnisha i sveže ceđenog soka"
+    },
+    "offersAllInclusiveTitle": "all inclusive",
+    "offersAllInclusiveList": {
+        "offersAllInclusiveItem1": "2 ili više barmena",
+        "offersAllInclusiveItem2": "bar (po potrebi)",
+        "offersAllInclusiveItem3": "kompletna logistika oko organizacije događaja",
+        "offersAllInclusiveItem4": "nabavka pića, sirupa, itd."
+    },
+    "offersCocktailCardTitle": "izrada koktel karte",
+    "offersCocktailCardList": {
+        "offersCocktailCardItem1": "izrada koktel karte po potrebama lokala",
+        "offersCocktailCardItem2": "adaptacija postojećih koktel karata",
+        "offersCocktailCardItem3": "obuka osoblja",
+        "offersCocktailCardItem4": "mogućnost nabavke koktel opreme"
+    },
+    "offersLink": "Zatraži ponudu",
+    "aboutTitle": "O nama",
+    "aboutText1": "Old Pals koktel ketering je spoj strasti prema koktelima i bogatog iskustva u njihovoj pripremi. Naš tim čine dva iskusna barmena s dugogodišnjim stažem u ovoj veštini, spremna da vašem događaju donesu pravi šarm.",
+    "aboutText2": "Svojom kreativnošću i raznovrsnom paletom koktela, obezbeđujemo nezaboravan doživljaj ukusa koji će obogatiti svaki važan trenutak. Bez obzira na vrstu događaja (svadbe, rođendani, momačke, devojačke, biznis eventi, itd.), Old Pals koktel ketering pruža elegantnu uslugu, brižljivo odabrane sastojke i koktele pripremljene s profesionalizmom, koji će oduševiti vaše goste. Učinite vaš događaj posebnim uz nas i doživite pravu umetnost koktela. Živeli! 🍹🍸",
+    "testimonialsTitle": "Šta kažu naši klijenti",
+    "testimonialsGoogleLink": "Pogledaj Google Recenziju",
+    "testimonialsText1": "Nedavno smo angažovali Old Pals iz Novog Sada za korporativni događaj i nismo mogli biti više impresionirani. Igor i Žika su doneli svoj pokretni bar i oduševili naše goste neverovatnim izborom koktela. Njihova profesionalnost i stručnost bili su očigledni od samog početka, a kreirali su briljantan koktel meni koji je savršeno dopunio veče. Od početka do kraja pružili su uslugu na najvišem nivou, ostavljajući sve prisutne potpuno impresionirane. Moj omiljeni koktel svih vremena je Paper Plane, a nije mnogo miksologa koji zapravo znaju kako da ga naprave. Ali ova dvojica? Pogodili su u metu! Toplo preporučujemo Old Pals iz Novog Sada za bilo koji događaj koji zahteva ketering sa koktelima. 10/10. Hvala vam momci!",
+    "testimonialsText2": "Odličan i zanimljiv izbor alkoholnih i bezalkoholnih koktela. Momci su profesionalni i ljubazni, svaka preporuka. Nadamo se daljoj saradnji. 🤙",
+    "testimonialsText3": "Momci rade na kvalitetu, vrlo profesionalan tim pun iskustva i znanja. Meni koktela po vašem izboru, oni će dati sve od sebe da ispune svaku vašu želju i ideju, kao i da stvore nezaboravnu atmosferu i unaprede vašu proslavu. #salute",
+    "testimonialsText4": "Odlični kokteli, ljubazni, profesionalni i pedantni momci. Sve pohvale! 👌👌👌",
+    "contactTitle": "Kontaktirajte nas",
+    "contactText1": "Ukoliko nismo odgovorili na neka vaša pitanja ili nedoumice, budite slobodni da nam pišete na mail",
+    "contactText2": ", da nas pozovete direktno na broj",
+    "contactText3": " ... ili da nas pronađete na društvenim mrežama.",
+    "contactTel": "Broj telefona",
+    "videosTitle": "Pogledaj kako radimo neke od naših koktela",
+    "videosPlayBtn": "Pusti video",
+    "videosCloseBtn": "Zatvori video"
+}

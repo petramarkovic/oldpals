@@ -1,0 +1,129 @@
+.footer {
+	width: 100%;
+	padding: 30px 0;
+    border-top: 1px solid var(--black);
+}
+
+.footer__content {
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__content {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__content {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .footer__col {
+        flex: 1 1 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__col {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+.footer__copy {
+	display: flex;
+    align-items: center;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.footer__copy-text {
+	display: block;
+	margin-left: 10px;
+}
+
+.footer__copy-text a {
+    color: var(--black);
+    text-decoration: none;
+}
+
+.footer__list {
+	display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__list {
+        justify-content: flex-end;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__list {
+        justify-content: flex-start;
+        margin: 30px 0;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+}
+
+.footer__list-item {
+    list-style: none;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__list-item:not(:last-child) {
+        margin-right: 16px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__list-item {
+        margin-bottom: 16px;
+    }
+}
+
+.footer__list-link {
+    color: var(--black);
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 16px;
+    line-height: 16px;
+    position: relative;
+}
+
+@media screen and (min-width: 1200px) {
+    .footer__list-link::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 0;
+        height: 1px;
+        background-color: var(--main-fg-color);
+        transition: all var(--transition);
+    }
+    .footer__list-link:hover::after {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__list-link {
+        font-size: 26px;
+        line-height: 26px;
+    }
+}
+
+.footer__link {
+	color: var(--main-fg-color);
+}

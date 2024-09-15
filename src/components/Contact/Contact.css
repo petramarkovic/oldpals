@@ -1,0 +1,68 @@
+.contact {
+	width: 100%;
+}
+
+.contact__text {
+    text-align: center;
+}
+
+.contact__text:last-of-type {
+    padding-top: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .contact__text {
+        padding: 32px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact__text {
+        padding: 16px 0;
+    }
+}
+
+.contact__link {
+	color: var(--main-fg-color);
+	font-weight: var(--bold);
+	margin: 0 8px;
+	position: relative;
+	display: inline-flex;
+    gap: 6px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.contact__link span {
+    display: flex;
+    align-items: center;
+}
+
+.contact__icon {
+	vertical-align: middle;
+}
+
+.contact__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.contact__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+    .contact__logo img {
+        width: 320px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact__logo img {
+        width: 75%;
+    }
+}
